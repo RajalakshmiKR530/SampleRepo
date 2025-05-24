@@ -4,15 +4,15 @@ public class AbstractionChild extends AbstractionParent {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/*AbstractionChild obj = new AbstractionChild(); //object creation
+		AbstractionChild obj = new AbstractionChild(); //object creation
 		
 		obj.print();
 		obj.display();
-		obj.show();*/
+		obj.show();
 		
-		AbstractionParent obj1 = new AbstractionChild(); //reference creation
+	/*	AbstractionParent obj1 = new AbstractionChild(); //reference creation
 		obj1.display();
-		obj1.print();
+		obj1.print();*/
 		
 	}
 
