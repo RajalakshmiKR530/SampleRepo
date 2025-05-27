@@ -15,7 +15,7 @@ public class Interface2 implements Interface1 {
 		obj.display1();
 		obj.print(); */
 		
-		Interface1 obj1 = new Interface2();
+		Interface1 obj1 = new Interface2(); //Reference created
 		obj1.display();
 		obj1.print();
 		
